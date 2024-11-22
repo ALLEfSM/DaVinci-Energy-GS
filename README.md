@@ -38,7 +38,7 @@ O objetivo do projeto é criar uma solução robusta que permita aos usuários a
 
 ## 🎥 Demonstração do Projeto
 
-🎬 Confira nossa **demonstração em vídeo**: [Clique aqui para assistir]()
+🎬 Confira nossa **demonstração em vídeo**: [Clique aqui para assistir](https://www.youtube.com/watch?v=JTChkyoybAw)
 
 ---
 
