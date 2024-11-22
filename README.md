@@ -8,7 +8,7 @@
 
 ## 📋 Sobre o Projeto
 
-**DaVinci Energy** é uma plataforma inovadora que auxilia residências e pequenos comércios no monitoramento, controle e otimização do consumo de energia elétrica. Baseada na tabela de eficiência energética do Inmetro e suportada por dispositivos de medição e inteligência de dados, a solução:
+**DaVinci Energy** é uma plataforma inovadora que auxilia usuarios,residências e pequenos comércios no monitoramento, controle e otimização do consumo de energia elétrica. Baseada na tabela de eficiência energética do Inmetro e suportada por dispositivos de medição e inteligência de dados, a solução:
 
 - Oferece dados detalhados sobre o consumo de cada aparelho.
 - Ajuda na escolha de dispositivos mais eficientes.
