@@ -41,6 +41,11 @@ O objetivo do projeto é criar uma solução robusta que permita aos usuários a
 🎬 Confira nossa **demonstração em vídeo**: [Clique aqui para assistir](https://www.youtube.com/watch?v=JTChkyoybAw)
 
 ---
+## 🎥 Pitch do projeto
+
+🎬 Confira nosso **pitch**: [Clique aqui para assistir](https://www.loom.com/share/bc2931410d49469ab30e180ab118e9d1?t=176&sid=3cc8d8e4-c085-4736-835a-1a9a115efeae)
+
+---
 
 ## 🚀 Como Começar
 
